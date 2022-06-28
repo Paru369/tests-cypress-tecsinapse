@@ -1,0 +1,22 @@
+{
+  "name": "estagio-qa-tecsinapse",
+  "version": "1.0.0",
+  "description": "Demo cypress tecsinapse",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "2e2"
+  ],
+  "author": "Paulo Pinheiro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.1"
+  }
+}
